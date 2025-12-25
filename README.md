@@ -59,6 +59,6 @@ jupyter notebook House_prediction.ipynb
 ```
 ## Author
 
-Pirawit
+Pirawit Kokiatwarakun
 
 

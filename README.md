@@ -3,11 +3,9 @@
 This project uses machine learning techniques to predict **median house prices in California** based on demographic and geographic features.
 
 ## Files in This Repository
-
-House_prediction.ipynb # Main notebook containing data analysis and models
-housing.csv # Dataset used for training and testing
-README.md # Project documentation
-
+House_prediction.ipynb – Main notebook containing data analysis and models  
+housing.csv – Dataset used for training and testing  
+README.md – Project documentation  
 
 ## Project Overview
 The goal of this project is to build and evaluate regression models that can accurately predict housing prices. The project includes data exploration, feature engineering, model training, and performance evaluation.

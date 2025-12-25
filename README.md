@@ -57,8 +57,8 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 jupyter notebook House_prediction.ipynb
 
 ```
-Author
-```
-Pirawit Kokiatwarakun
+## Author
+
+Pirawit
 
 

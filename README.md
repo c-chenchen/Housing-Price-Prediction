@@ -46,14 +46,19 @@ The Random Forest model achieved the best performance, demonstrating its ability
 ```bash
 git clone https://github.com/your-username/your-repo-name.git
 
-Install required packages:
+```
+2. Install required packages:
+```bash
 pip install pandas numpy matplotlib seaborn scikit-learn
 
-Open the notebook:
+```
+3. Open the notebook:
+```bash
 jupyter notebook House_prediction.ipynb
 
+```
 Author
-
+```
 Pirawit Kokiatwarakun
 
 
